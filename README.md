@@ -5,6 +5,8 @@ Repository ini berisi proyek web yang dibuat sebagai tugas pada mata kuliah Pemr
 ## View Website
 Tampilan antar muka yang dibuat yaitu profile, beranda dan halaman search.
 
+![View1](https://github.com/nrhdyt3012/instagram-clone/blob/main/Screenshot%20385_Screenshot%20386_Screenshot%20387.jpeg)
+
 ## Deskripsi
 
 Proyek ini bertujuan untuk mereplikasi antarmuka pengguna aplikasi Instagram menggunakan teknologi web dasar. Fitur-fitur yang diimplementasikan menyesuaikan dengan instruksi tugas mata kuliah.
